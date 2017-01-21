@@ -1,0 +1,15 @@
+name: MagicPvP
+version: 0.7.3
+author: NeXTormer
+
+
+main: Main.MagicPvP
+
+commands:
+  pvp:
+    description: PvP Command!
+    usage: /pvp <args> <args>
+  report:
+    description: Report Command
+    usage: /report <args> <args>
+    
